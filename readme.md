@@ -1,5 +1,5 @@
 # Python-DB
-A database I created for my AP CSP create task in March 2024.
+A database I created for my AP CSP create task in March 2024. (I got a 4 out of 5 lol)
 
 https://github.com/ZarmDev/Python-DB/assets/80705328/6d0f22e7-38e2-4dc3-9fd2-9e0348bddf98
 
